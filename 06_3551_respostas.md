@@ -1,5 +1,6 @@
 # PILHA SOBRE LISTA ENCADEADA
 
+
 ## push(): Complexidade O(1)
 Como acessa diretamente o topo da pilha então ele adiciona um novo elemento em tempo constante
 

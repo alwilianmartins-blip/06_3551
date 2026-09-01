@@ -1,7 +1,6 @@
 import importlib
 
 
-
 modulo_pilha = importlib.import_module("06_3551_pilha_encadeada")
 PilhaEncadeada = modulo_pilha.ListaEncadeada
 

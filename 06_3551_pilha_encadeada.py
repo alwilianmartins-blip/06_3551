@@ -48,6 +48,7 @@ class ListaEncadeada:
             return False
 
 
+
     def _topo(self):
 
         """Retorna o item do topo sem removê-lo; levanta IndexError se a pilha estiver vazia.
